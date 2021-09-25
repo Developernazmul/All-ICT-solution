@@ -1,0 +1,21 @@
+a {
+    text-decoration: none !important;
+    color: #337ab7;
+}
+p{
+	margin:0;
+	padding:0;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.all-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.all-header h2 {
+    font-size: 35px;
+    color: #555;
+}
